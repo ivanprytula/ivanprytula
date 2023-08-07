@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 </div>
 
 ## About me
-- 🔭 I’m currently working on my [price-navigator web app](https://github.com/ivanprytula/price-navigator)
 - 🌱 I’m currently learning tech stack for Middle Python developer (clouds, GitHub Actions, build effective API, system design etc.)
 - 🤔 I’m looking for a new job (Python Developer/Data Engineer roles)
 
