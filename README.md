@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   ... code is transferring to ...
   <img src="octo.gif" width="100"/>
@@ -27,9 +28,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+[![Ivan Prytula profile views](https://u8views.com/api/v1/github/profiles/22074862/views/day-week-month-total-count.svg)](https://u8views.com/github/ivanprytula)
+
 ## About me
-- 🌱 I’m currently learning tech stack for Middle Python developer (clouds, GitHub Actions, build effective API, system design etc.)
-- 🤔 I’m looking for a new job (Python Developer/Data Engineer roles)
+- 🌱 I’m currently improving my tech stack (clouds, GitHub Actions, build effective API, system design etc.)
 
 ---
 
